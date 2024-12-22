@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/JAVA-#000000.svg?style=for-the-badge&logo=openJDK&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JAVA-000000.svg?style=for-the-badge&logo=openJDK&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C Language-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp

@@ -57,6 +57,6 @@
   </a>
   <a href="mailto:yunho.kang99@gmail.com">
     <img
-      src="https://img.shields.io/badge/yunho.kang99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>

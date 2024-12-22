@@ -1,6 +1,6 @@
 
 <h1>Yunho Kang</h1>
-<p>Student Developer</p>
+<p>👨‍💻Student Developer</p>
 
 <hr>
 

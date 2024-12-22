@@ -41,8 +41,6 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
-  
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-0098FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0098FF" />&nbsp
@@ -50,13 +48,15 @@
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
 </div>
 
-<br>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3>📫 Contact</h3>
+<div align="center">
+  <a href="www.linkedin.com/in/yun-ho-kang">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:yunho.kang99@gmail.com">
+    <img
+      src="https://img.shields.io/badge/yunho.kang99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>

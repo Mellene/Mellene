@@ -1,11 +1,11 @@
 
 <h1>Yunho Kang</h1>
-<p>👨‍💻Student Developer</p>
+<p>👨‍💻Software Development Engineer & Front-End Developer</p>
 
 <hr>
 
 <h3>About Me</h3>
-<li>I'm a student developer with infrastructure</li>
+<li>I'm a developer with infrastructure</li>
 <li>I'm interested in Web development as UX/UI and still studying</li>
 <li>I majored in Computer Science at Stony Brook University(SUNY Korea)</li>
 <li>Also work in Lab of <i>Spike Neural Networks</i> in SUNY Korea as Undergraduate reasearch assistant</li>

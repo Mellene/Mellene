@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/JAVA-FF7F00.svg?style=for-the-badge&logo=openJDK&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C Language-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/swiftUI-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
 <hr>

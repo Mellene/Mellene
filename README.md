@@ -1,14 +1,11 @@
 <h1>Yunho Kang</h1>
-<p>👨‍💻Software Development Engineer</p>
-
 <hr>
-
 <h3>About Me</h3>
-<li>I'm a developer with infrastructure</li>
-<li>I'm interested in Web development as UX/UI with HCI and studying about Neural Network with Robotics</li>
-<li>I majored in Computer Science at Stony Brook University(SUNY Korea) spcialized with Artifical Intelligence & Data Science</li>
-<li>Also I worked in Lab of <i>Brain-Inspired Computing</i> in SUNY Korea as Undergraduate reasearch assistant</li>
-
+<li>B.S. in Computer Science (AI & Data Science) at Stony Brook University, SUNY Korea</li>
+<li>Experienced in Python-based data preprocessing, analysis, and model performance comparison</li>
+<li>Built frontend applications with React.js, focusing on user-centered design and component architecture</li>
+<li>Worked as Undergraduate Research Assistant at the Brain-Inspired Computing Lab, SUNY Korea — researching SNN-based object recognition and energy efficiency</li>
+<li>Contributed to global research and consulting projects across 7 countries as a PM and data analyst at Caravan Research</li>
 <hr>
 
 <h3>🖥️ Tech Stack</h3>
